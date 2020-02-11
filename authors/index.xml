@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Chenglei Wu</title>
+    <link>https://wucl.me/authors/</link>
+    <description>Recent content in Authors on Chenglei Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://wucl.me/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A. Marchesi</title>
+      <link>https://wucl.me/authors/a.-marchesi/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://wucl.me/authors/a.-marchesi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Giardino</title>
+      <link>https://wucl.me/authors/c.-giardino/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://wucl.me/authors/c.-giardino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Busetto</title>
+      <link>https://wucl.me/authors/l.-busetto/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://wucl.me/authors/l.-busetto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Meroni</title>
+      <link>https://wucl.me/authors/m.-meroni/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://wucl.me/authors/m.-meroni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Colombo</title>
+      <link>https://wucl.me/authors/r.-colombo/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://wucl.me/authors/r.-colombo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://wucl.me/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wucl.me/authors/admin/</guid>
+      <description>&lt;p&gt;I am a Ph.D. student at the Computer Science Department of Tsinghua University, under the supervision of Prof. Lifeng Sun and Prof. Zhi Wang.
+Prior to joining the Lab of Multimedia and Networking, I received my B.S. degree from School of Computer Science and Technology at Sun Yat-Sen University.
+My research work focuses on the multimedia network optimization. For more details, please refer to my CV.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
