@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Chenglei Wu</title>
+    <link>https://wucl.me/project/</link>
+    <description>Recent content in Projects on Chenglei Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="https://wucl.me/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AAAI 2020 360 FoV Prediction</title>
+      <link>https://wucl.me/project/aaai20-360fov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wucl.me/project/aaai20-360fov/</guid>
+      <description>&lt;h3 id=&#34;a-spherical-convolution-approach-for-learning-long-term-viewport-prediction-in-360-immersive-video&#34;&gt;A Spherical Convolution Approach for Learning Long Term Viewport Prediction in 360 Immersive Video&lt;/h3&gt;
+&lt;p&gt;Viewport prediction for 360 video forecasts a viewer’s view- port when he/she watches a 360 video with a head-mounted display, which benefits many VR/AR applications such as 360 video streaming and mobile cloud VR.
+Existing studies based on planar convolutional neural net- work (CNN) suffer from the image distortion and split caused by the sphere-to-plane projection. In this paper, we start by proposing a spherical convolution based feature extraction network to distill spatial-temporal 360 information. We pro- vide a solution for training such a network without a dedicated 360 image or video classification dataset.
+We differ with previous methods, which base their predictions on image pixel-level information, and propose a semantic content and preference based viewport prediction scheme. In this paper, we adopt a recurrent neural network (RNN) network to extract a user’s personal preference of 360 video content from minutes of embedded viewing histories. We utilize this semantic preference as spatial attention to help net- work find the “interested” regions on a future video. We further design a tailored mixture density network (MDN) based viewport prediction scheme, including viewport modeling, tailored loss function, etc, to improve efficiency and accuracy. Our extensive experiments demonstrate the rationality and performance of our method, which outperforms state-of-the- art methods, especially in long-term prediction.&lt;/p&gt;
+&lt;p&gt;For code and dataset, please refer to &lt;a href=&#34;https://github.com/wuchlei/AAAI20-Viewport-Prediction&#34;&gt;code&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

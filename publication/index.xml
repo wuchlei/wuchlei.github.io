@@ -6,44 +6,62 @@
     <description>Recent content in Publications on Chenglei Wu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://wucl.me/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Estimating canopy water content of poplar plantation from MIVIS data</title>
-      <link>https://wucl.me/publication/test-copy-2/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <title>A Spherical Convolution Approach for Learning Long Term Viewport Prediction in 360 Immersive Video</title>
+      <link>https://wucl.me/publication/chenglei-2020-fovprediction/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wucl.me/publication/test-copy-2/</guid>
+      <guid>https://wucl.me/publication/chenglei-2020-fovprediction/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Estimating canopy water content of poplar plantation from MIVIS data</title>
-      <link>https://wucl.me/publication/test-copy-3/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <title>Being more Effective and Interpretable: Bridging the Gap Between Heuristics and AI for ABR Algorithms</title>
+      <link>https://wucl.me/publication/huang-2019-being/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://wucl.me/publication/test-copy-3/</guid>
+      <guid>https://wucl.me/publication/huang-2019-being/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Estimating canopy water content of poplar plantation from MIVIS data</title>
-      <link>https://wucl.me/publication/test-copy/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <title>Comyco: Quality-Aware Adaptive Video Streaming via Imitation Learning</title>
+      <link>https://wucl.me/publication/huang-2019-comyco/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://wucl.me/publication/test-copy/</guid>
+      <guid>https://wucl.me/publication/huang-2019-comyco/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Estimating canopy water content of poplar plantation from MIVIS data</title>
-      <link>https://wucl.me/publication/test/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <title>Livesmart: A QoS-Guaranteed Cost-Minimum Framework of Viewer Scheduling for Crowdsourced Live Streaming</title>
+      <link>https://wucl.me/publication/zhang-2019-livesmart/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://wucl.me/publication/test/</guid>
+      <guid>https://wucl.me/publication/zhang-2019-livesmart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A dataset for exploring user behaviors in VR spherical video streaming</title>
+      <link>https://wucl.me/publication/wu-2017-dataset/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wucl.me/publication/wu-2017-dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowdsourced Live Streaming over Aggregated Edge Networks</title>
+      <link>https://wucl.me/publication/wu-2016-crowdsourced/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wucl.me/publication/wu-2016-crowdsourced/</guid>
       <description></description>
     </item>
     

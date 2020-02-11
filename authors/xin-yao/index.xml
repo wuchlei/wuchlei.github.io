@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xin Yao on Chenglei Wu</title>
+    <link>https://wucl.me/authors/xin-yao/</link>
+    <description>Recent content in Xin Yao on Chenglei Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://wucl.me/authors/xin-yao/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Being more Effective and Interpretable: Bridging the Gap Between Heuristics and AI for ABR Algorithms</title>
+      <link>https://wucl.me/publication/huang-2019-being/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wucl.me/publication/huang-2019-being/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comyco: Quality-Aware Adaptive Video Streaming via Imitation Learning</title>
+      <link>https://wucl.me/publication/huang-2019-comyco/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wucl.me/publication/huang-2019-comyco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Livesmart: A QoS-Guaranteed Cost-Minimum Framework of Viewer Scheduling for Crowdsourced Live Streaming</title>
+      <link>https://wucl.me/publication/zhang-2019-livesmart/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wucl.me/publication/zhang-2019-livesmart/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
